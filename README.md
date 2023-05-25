@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkashAT123
+- 👋 Hi, I’m @Akash_Atkari
 - 👀 I’m interested in Python Development 
 - 🌱 I’m currently learning Data Engineering 
 - 💞️ I’m looking to collaborate on various projects.
